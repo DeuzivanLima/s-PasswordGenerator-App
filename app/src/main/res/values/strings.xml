@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="textView_header">Password Generator Parameters</string>
+    <string name="use_letters">use letters upper</string>
+    <string name="use_symbols">use symbols</string>
+    <string name="use_numbers">use numbers</string>
+    <string name="password_hint">password...</string>
+</resources>
